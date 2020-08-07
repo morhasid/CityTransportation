@@ -1,4 +1,6 @@
 # City Transportation Simulator.
+Users can add different types of vehicles to the city, track and
+analyze their journey.
 
 ## Screenshots
 ![Example screenshot](./img/1.png)
@@ -10,3 +12,4 @@
 * Multithreading
 * Design Patterns
 * Data Structures
+* GUI
